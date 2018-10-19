@@ -119,6 +119,14 @@ h3, h2 {
 
 /* main */
 
+#icon {
+  padding: 20px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
 #main-container {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
